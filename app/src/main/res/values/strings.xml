@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Smart Water</string>
+    <string name="water_level">Water Level:</string>
+    <string name="boiler_status">Boiler Status :</string>
+    <string name="enter_final_temperature">Enter Final Temperature</string>
+    <string name="approx_volume">Approx Volume:</string>
+    <string name="boil_water">Boil Water</string>
+    <string name="todo">TODO</string>
+</resources>
